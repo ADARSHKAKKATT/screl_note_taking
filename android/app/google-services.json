@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3170476398",
+    "project_id": "screlnotes",
+    "storage_bucket": "screlnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3170476398:android:e7e4ee5e5bb03b014e217f",
+        "android_client_info": {
+          "package_name": "com.example.screl_note_taking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcX2SbDpIFqp1v5PJq_3B07Wer-dMhLNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
